@@ -1,0 +1,21 @@
+package aulapratica1;
+
+// classe Pessoa com métodos e atributos
+public class Pessoa {
+	
+	//atributos declarados como private para que não sejam acessados por outra classe
+	private int codigo;
+	private String nome;
+	
+	// método construtor de mesmo nome da classe. E serve para inicializar os atributos
+	public Pessoa(int codigo, String nome) {
+		this.codigo = codigo;
+		this.nome = nome;
+	}
+	
+	// método para acessar o conteudo do atributo nome do objeto.
+	public String getName() {
+		return nome;
+	}
+
+}

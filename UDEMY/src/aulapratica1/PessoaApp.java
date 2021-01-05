@@ -1,0 +1,18 @@
+package aulapratica1;
+
+public class PessoaApp {
+	
+	public static void main (String[] args) {
+		
+		// criamos o objeto pessoa1 do tipo Pessoa
+		// usamos o new e logo após o construtor Pessoa, e passamos os valores dos parametros, do objeto
+		Pessoa pessoa1 = new Pessoa(1, "Laura");
+		
+		Pessoa pessoa2 = new Pessoa(2, "Ellen");
+		
+		//mostrando na tela
+		System.out.println("o id do usuário é:  " + pessoa1.getCodigo());
+		System.out.println("O nome é " + pessoa1.getName());
+	}
+
+}

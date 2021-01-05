@@ -1,0 +1,16 @@
+package aulapratica1;
+
+// classe Pessoa com métodos e atributos
+public class Pessoa {
+	
+	//atributos
+	int codigo;
+	String nome;
+	
+	// método construtor de mesmo nome da classe. E serve para inicializar os atributos
+	public Pessoa(int codigo, String nome) {
+		this.codigo = codigo;
+		this.nome = nome;
+	}
+
+}
