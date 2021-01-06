@@ -14,7 +14,6 @@ public class PessoaApp {
 		System.out.println("o id do usuário é:  " + pessoa1.getCodigo());
 		System.out.println("O nome é " + pessoa1.getName());
 		
-		// usando o metodo set, para modificar o atributo nome do objeto pessoa1
 		pessoa1.setNome("Ana");
 		
 		System.out.println("O nome é " + pessoa1.getName());

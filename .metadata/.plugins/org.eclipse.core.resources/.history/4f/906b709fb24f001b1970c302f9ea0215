@@ -27,10 +27,5 @@ public class Pessoa {
 		public int getCodigo() {
 			return codigo;
 	}
-		
-	// método para modificar um atributo
-	public void setCodigo(int codigo) {
-		this.codigo = codigo;
-	}
 
 }

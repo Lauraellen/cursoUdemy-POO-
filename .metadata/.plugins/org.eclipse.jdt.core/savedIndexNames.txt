@@ -8,7 +8,6 @@ INDEX VERSION 1.131+C:\Users\laura\Documents\UDEMY PROJETO JAVA\.metadata\.plugi
 3288513779.index
 4254095041.index
 123860335.index
-255488461.index
 4178871191.index
 1000893301.index
 3795807717.index
